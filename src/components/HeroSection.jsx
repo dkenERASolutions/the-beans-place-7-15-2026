@@ -223,6 +223,7 @@ export default function HeroSection() {
                     <span className="hero-floating-badge-label">per bag</span>
                 </motion.div>
             </div>
+            
         </>
     );
 }
